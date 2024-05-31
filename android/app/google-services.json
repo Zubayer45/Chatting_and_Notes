@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868338942906",
+    "project_id": "chat-and-notes",
+    "storage_bucket": "chat-and-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868338942906:android:7f894771628bc568165383",
+        "android_client_info": {
+          "package_name": "com.example.rsm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhALhl6vdYB_55AaUWWlCMvqB5f3PuN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
